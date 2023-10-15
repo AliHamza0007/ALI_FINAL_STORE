@@ -1,16 +1,15 @@
 {
-  "name": "ConfortZone",
+  "name": "ALI_FINAL_STORE",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
 
-  
        "start": "node index.js"
   },
   "keywords": [],
-  "author": "ConfortZone",
+  "author": "ALI_FINAL_STORE",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
