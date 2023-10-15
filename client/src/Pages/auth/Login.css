@@ -1,0 +1,18 @@
+/* //Hide Show Btn */
+#inputPassword {
+  padding-right: 25px;
+}
+#showbtn {
+  position: absolute;
+  top: 20%;
+  right: 5px;
+  transform: translate(-50);
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+@media (max-width: 425px) {
+  .hide {
+    display: none;
+  }
+}

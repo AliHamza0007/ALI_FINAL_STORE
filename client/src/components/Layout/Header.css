@@ -1,0 +1,25 @@
+li {
+  padding: 0px 10px;
+  cursor: pointer !important;
+}
+
+.nav-link {
+  padding: 5px 20px;
+}
+.nav-link:hover {
+  background: #e2e0e0;
+  padding: 5px 15px;
+  border-radius: 10px;
+  cursor: pointer !important;
+}
+.active {
+  border-bottom: 1px solid black !important;
+}
+li:hover {
+  cursor: pointer !important;
+  background: #e2e0e0;
+}
+ul li .navlink {
+  cursor: pointer !important;
+  background: #e2e0e0;
+}
